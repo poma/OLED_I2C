@@ -1,6 +1,6 @@
 {
   "name": "OLED_I2C",
-  "version": "2.10",
+  "version": "2.11",
   "description": "Multi-platform library support for 128x32 and 128x64 pixel SSD1306 OLEDs",
   "keywords": "SSD1306, OLED, display",
   "repository":
