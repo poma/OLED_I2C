@@ -1,0 +1,27 @@
+{
+  "name": "OLED_I2C",
+  "version": "2.10",
+  "description": "Multi-platform library support for 128x32 and 128x64 pixel SSD1306 OLEDs",
+  "keywords": "SSD1306, OLED, display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/poma/OLED_I2C.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Henning Karlsen",
+      "url": "http://www.RinkyDinkElectronics.com"
+    },
+    {
+      "name": "Roman Semenov",
+      "email": "semenov.roma@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "CC BY-NC-SA 3.0",
+  "homepage": "http://www.rinkydinkelectronics.com/library.php?id=79",
+  "frameworks": "*",
+  "platforms": "*"
+}
